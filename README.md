@@ -1,2 +1,3 @@
 # ML-Key-Code
-A file to contain the key code needed for performing ML in python
+A repository to contain the key code needed for performing ML in python
+
